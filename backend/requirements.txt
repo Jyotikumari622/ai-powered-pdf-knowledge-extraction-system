@@ -7,3 +7,5 @@ PyMuPDF==1.24.10
 chromadb==1.5.9
 groq==1.6.0
 Werkzeug==3.0.4
+gunicorn==22.0.0
+gunicorn==22.0.0
