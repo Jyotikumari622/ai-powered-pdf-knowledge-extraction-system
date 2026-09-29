@@ -11,7 +11,7 @@ export default function Logo({ size = 30, showText = true }) {
 
       {showText && (
         <span className="font-serif text-2xl font-semibold text-ink">
-          QueryDoc <span className="text-annotation">AI</span>
+          DocuMind <span className="text-annotation">AI</span>
         </span>
       )}
     </div>

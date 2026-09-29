@@ -35,7 +35,7 @@ export default function Login() {
           Know more.
         </h1>
         <p className="mt-4 text-ink-soft max-w-sm">
-          Upload any PDF and ask it questions. QueryDoc AI answers strictly
+          Upload any PDF and ask it questions. DocuMind AI answers strictly
           from your document, citing the exact page for every claim.
         </p>
       </div>

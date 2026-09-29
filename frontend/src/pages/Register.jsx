@@ -55,7 +55,7 @@ export default function Register() {
             value={name}
             onChange={(e) => setName(e.target.value)}
             className="input-field mb-4"
-            placeholder="Ada Lovelace"
+            placeholder="Jyoti Kumari"
           />
 
           <label className="block text-sm text-ink-soft mb-1">Email</label>
