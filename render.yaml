@@ -3,6 +3,7 @@ services:
     name: documind-backend
     runtime: python
     rootDir: backend
+    pythonVersion: "3.11.9"
     buildCommand: pip install -r requirements.txt
     startCommand: gunicorn run:app
     envVars:
